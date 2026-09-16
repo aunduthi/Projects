@@ -15,7 +15,7 @@ position feedback for a soft/wearable robotic actuator.
 
 ## Demonstration
 
-[![TSA Test Apparatus Demo](media/Labelled_testing_apparatus.png)](media/TSA_Demo.mp4)
+[![TSA Test Apparatus Demo](media/Labelled_testing_apparatus.png)](https://youtu.be/3uDrNkI0PRM)
 
 **Click the image to view the demonstration video.**
 
