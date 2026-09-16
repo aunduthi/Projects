@@ -42,14 +42,14 @@ The apparatus integrates:
 - Voltage-divider circuit for resistance measurement
 - Rotating electrical contact for maintaining conductivity during rotation
 - Custom mechanical components designed in Fusion 360 and manufactured using
-  3D printing and aluminum extrusion
+  3D printing 
 
 ## Resistance Measurement
 
 The Arduino does not measure resistance directly.
 
 The conductive thread and a known resistor form a voltage divider. The Arduino
-measures the voltage at the junction using analog input A0.
+measures the voltage at the junction using analog input.
 
 As the resistance of the conductive thread changes, the measured voltage also
 changes. The resistance is then calculated using the voltage-divider equation:
@@ -76,7 +76,7 @@ During a trial, the system records:
 - Trial time
 - Distance
 - Total measured resistance
-- Estimated conductive-thread resistance
+- Conductive-thread resistance
 
 Resistance measurements are sampled repeatedly while the motor is operating,
 allowing resistance and contraction to be correlated throughout each trial.
