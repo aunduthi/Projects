@@ -19,6 +19,25 @@ position feedback for a soft/wearable robotic actuator.
 
 **Click the image to view the demonstration video.**
 
+## Experimental Results
+
+### Actuator Position vs. Time
+
+![Position vs. Time](media/position_vs._time.png)
+
+The time-of-flight sensor tracks the position of the moving carriage throughout
+actuation, allowing the contraction of the twisted string actuator to be
+measured over time.
+
+### Position vs. Electrical Resistance
+
+![Position vs. Resistance](media/position_vs._resistance.png)
+
+The conductive string forms part of a voltage-divider circuit, allowing its
+electrical resistance to be estimated continuously during actuation. Position
+and resistance measurements were recorded simultaneously to investigate the
+relationship between actuator contraction and electrical resistance.
+
 ## CAD (Fusion 360) Designs
 
 ### Motor mount
