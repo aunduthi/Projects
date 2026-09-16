@@ -34,9 +34,10 @@ measured over time.
 ![Position vs. Resistance](media/position_vs._resistance.png)
 
 The conductive string forms part of a voltage-divider circuit, allowing its
-electrical resistance to be estimated continuously during actuation. Position
+electrical resistance to be measured continuously during actuation. Position
 and resistance measurements were recorded simultaneously to investigate the
-relationship between actuator contraction and electrical resistance.
+relationship between actuator contraction and electrical resistance. The graph
+has a standard deviation of ±1.
 
 ## CAD (Fusion 360) Designs
 
