@@ -6,7 +6,7 @@ The objective was to gain hands-on experience with the PCB development process, 
 
 ## PCB 3D Model
 
-![STM32 PCB 3D Model](images/pcb-3d-model.png)
+![PCB 3D Model](images/Onboarding%203D%20model.png)
 
 ## Project Overview
 
@@ -33,7 +33,7 @@ Created the electrical schematic in KiCad, integrating the microcontroller, USB-
 
 Used STM32CubeMX to configure microcontroller pins and peripherals, ensuring that the selected functions were reflected in the schematic.
 
-![KiCad Schematic](images/schematic.png)
+![KiCad Schematic](images/Onboarding%20schematic.png)
 
 ### 2. PCB Layout and Routing
 
@@ -43,7 +43,7 @@ Routed PCB traces, placed vias, and configured copper zones to complete the boar
 
 During routing, resolved issues involving electrical connectivity, copper clearance, via dimensions, and thermal-relief connections.
 
-![KiCad PCB Layout](images/pcb-layout.png)
+![KiCad PCB Layout](images/Onboarding%20PCB%20design.png)
 
 ### 3. Design Verification
 
